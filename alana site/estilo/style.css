@@ -92,6 +92,8 @@ main h1 {
     font-family: var(--fonte-android);
     font-size: 1.5em;
     font-weight: normal;
+    display: block;
+    margin: auto;
 }
 
 main h2 {
